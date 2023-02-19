@@ -1,0 +1,1 @@
+python "Mouse Auto Clicker.py"
