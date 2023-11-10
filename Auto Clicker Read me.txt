@@ -1,0 +1,5 @@
+Open the "Mouse Auto Clicker.bat"
+
+Press "i" key to enable auto clicker
+Press "o" key to disable auto clicker
+Press & Hold "p" key to toggle auto clicker. 

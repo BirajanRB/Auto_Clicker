@@ -1,2 +1,0 @@
-Open the "Mouse Auto Clicker.bat"
-Press "p" key to auto click
